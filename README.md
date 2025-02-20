@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Magno West</h1>
 <h3 align="center">A passionate DevOps engineer working from home in the UK.</h3>
 
-- 🔭 I’m currently working as **DevOps Engineer** at [GLG](https://glginsights.com/) and volunteer at [DreamUp.ai](https://dreamup.ai/) as **DevOps Engineer**.
+- 🔭 I’m currently working as **Site Reliability Engineer** at [GLG](https://glginsights.com/) and volunteer at [DreamUp.ai](https://dreamup.ai/) as **DevOps Engineer**.
 
-- 🌱 I’m currently learning **GCP and Python.**
+- 🌱 I’m currently learning **Kubernetes and GO.**
 
 - 👯 I’m looking to collaborate on **DevOps projects.**
 
